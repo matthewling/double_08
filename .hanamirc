@@ -1,0 +1,4 @@
+project=double_08
+architecture=container
+test=minitest
+template=erb
